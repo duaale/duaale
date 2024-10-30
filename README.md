@@ -5,6 +5,7 @@
 - <b>Active Directory Home Lab </b><I>(Publication in Medium.com)</i>
   - [Complete Internal Active Directory Exploitation](https://medium.com/@farhiaqueen20/complete-internal-active-directory-exploitation-2629d7fc90fd)
 - <b>HTB write-ups</b>
+  - [Bastard](https://github.com/) 
   - [Active](https://github.com/) 
   - [Forest](https://github.com/) 
   - [Sauna](https://github.com/) 
